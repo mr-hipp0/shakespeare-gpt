@@ -1,5 +1,4 @@
 # shakespeare-gpt
-
 A PyTorch implementation of a Decoder-only Transformer (GPT) language model trained on the **Tiny Shakespeare** dataset from scratch.
 
 ---
